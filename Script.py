@@ -1,10 +1,13 @@
 class script(object):
-    START_TXT = """<b><u>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</u></b>
+    START_TXT = """<b><blockquote>🎭 ᴊᴀɪ sʜʀᴇᴇ ᴋʀɪsʜɴᴀ ♕ {}</blockquote>
 
-<b>ʜᴇʏ {}, {}</b>
-
-<b>🤖 ɪ ᴀᴍ <a href=https://t.me/{}>{}</a>, ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘʀᴇᴍɪᴜᴍ ꜰᴇᴀᴛᴜʀᴇꜱ.</b>
-"""
+     Just send me the name of any movie or series, and this bot will automatically search and find it for you. ✨
+     <blockquote>मूवी या सीरीज़ का नाम भेजो, बॉट आपको तुरंत खोजकर दे देगा। ✨</blockquote>
+    
+    <blockquote><b>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ :</b> <a href='https://telegram.me/'>ᴀғ ᴍʜᴀᴋᴀʟ</a></blockquote>
+    <blockquote>ᴛᴀᴘ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ 👇</blockquote>
+    
+    </b>"""
 
 
     GSTART_TXT = """<b>🚩 ᴊᴀɪ ꜱʜʀɪ ʀᴀᴍ 🚩</b>
@@ -269,7 +272,12 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/dreamxbotz">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/dreamxbotz">[ ᴅʀᴇᴀᴍxʙᴏᴛᴢ ]</a></b>"""
+    CAPTION = """<b><blockquote><a href="https://t.me/+Cuh0VD290xBmODY1">@Reelify_Bot {file_name}</a></blockquote>
+
+    ───── ❝  𝓙𝓸𝓲𝓷 𝓝𝓸𝔀 ❞ ─────
+    <blockquote>○Jᴏɪɴ :<a href="https://t.me/af_back_up">Cʜᴀɴɴᴇʟ</a>
+    ○Mᴏᴠɪᴇ : :<a href="https://t.me/+Cuh0VD290xBmODY1">Gʀᴏᴜᴘ</a></blockquote>
+    </b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
@@ -322,7 +330,7 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 ◉ 60 ᴅᴀʏꜱ - 75 ₹  / 75 ꜱᴛᴀʀ
 
 •─────•─────────•─────•
-🏷️ <a href='https://t.me/dreamxbotz'>ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ ᴘʀᴏᴏꜰ</a>
+🏷️ <a href='https://t.me/Af_waiting'>ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ ᴘʀᴏᴏꜰ</a>
 
 ‼️ ᴍᴜꜱᴛ ꜱᴇɴᴅ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀꜰᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.
 ‼️ ᴀꜰᴛᴇʀ ꜱᴇɴᴅɪɴɢ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ɢɪᴠᴇ ᴜꜱ ꜱᴏᴍᴇᴛɪᴍᴇꜱ ᴛᴏ ᴀᴅᴅ ʏᴏᴜ ɪɴ ᴘʀᴇᴍɪᴜᴍ ʟɪꜱᴛ."""
